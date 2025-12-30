@@ -63,21 +63,21 @@ Berikut adalah 10 layar utama yang mengimplementasikan Desain UI Modern:
 
 | Layar | Dark Mode | Light Mode |
 | --- | --- | --- |
-| **Login** | <img src="P7_UI_Modern_Login_Screen_Dark_Mode.png" width="200"> | <img src="P7_UI_Modern_Login_Screen_Light_Mode.png" width="200"> |
-| **Register** | <img src="UI_Register_Dark_Mode.png" width="200"> | <img src="UI_Register_Light_Mode.png" width="200"> |
+| **Login** | <img src="P7-Menerapkan-Desain-UI-Modern/P7_UI_Modern_Login_Screen_Dark_Mode.png" width="200"> | <img src="P7-Menerapkan-Desain-UI-Modern/P7_UI_Modern_Login_Screen_Light_Mode.png" width="200"> |
+| **Register** | <img src="P7-Menerapkan-Desain-UI-Modern/UI_Register_Dark_Mode.png" width="200"> | <img src="P7-Menerapkan-Desain-UI-Modern/UI_Register_Light_Mode.png" width="200"> |
 
 ### 2. Dashboard & Keamanan
 
 | Layar | Dark Mode | Light Mode |
 | --- | --- | --- |
-| **Dashboard** | <img src="Tampilan_Dashboard_Utama_dan_Ringkasan_Keamanan_Pengguna_(Dark_Mode).png" width="200"> | <img src="Tampilan_Dashboard_Utama_dan_Ringkasan_Keamanan_Pengguna_(Light_Mode).png" width="200"> |
-| **Security Details** | <img src="Security_Analytics_Details_Dark_Mode.png" width="200"> | <img src="Security_Analytics_Details_Light_Mode.png" width="200"> |
+| **Dashboard** | <img src="P7-Menerapkan-Desain-UI-Modern/Tampilan_Dashboard_Utama_dan_Ringkasan_Keamanan_Pengguna_(Dark_Mode).png" width="200"> | <img src="P7-Menerapkan-Desain-UI-Modern/Tampilan_Dashboard_Utama_dan_Ringkasan_Keamanan_Pengguna_(Light_Mode).png" width="200"> |
+| **Security Details** | <img src="P7-Menerapkan-Desain-UI-Modern/Security_Analytics_Details_Dark_Mode.png" width="200"> | <img src="P7-Menerapkan-Desain-UI-Modern/Security_Analytics_Details_Light_Mode.png" width="200"> |
 
 ### 3. Pengaturan (Settings)
 
 | Layar | Dark Mode | Light Mode |
 | --- | --- | --- |
-| **Settings** | <img src="app_settings_Dark_Mode.png" width="200"> | <img src="app_settings_Light_Mode.png" width="200"> |
+| **Settings** | <img src="P7-Menerapkan-Desain-UI-Modern/app_settings_Dark_Mode.png" width="200"> | <img src="P7-Menerapkan-Desain-UI-Modern/app_settings_Light_Mode.png" width="200"> |
 
 ---
 
@@ -88,4 +88,4 @@ Berikut adalah 10 layar utama yang mengimplementasikan Desain UI Modern:
 * **Mata Kuliah**: Mobile Programming
 * **Praktikum**: #7 Menerapkan Desain UI Modern
 
----
+```
