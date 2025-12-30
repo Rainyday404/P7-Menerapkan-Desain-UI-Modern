@@ -83,7 +83,7 @@ Berikut adalah 10 layar utama yang mengimplementasikan Desain UI Modern:
 
 **Informasi Mahasiswa:**
 
-* **Nama**: Ivan Dwika Bagaskara (Rain)
+* **Nama**: Ivan Dwika Bagaskara (Rain/Hujan)
 * **NIM**: 230104040205
 * **Mata Kuliah**: Mobile Programming
 * **Praktikum**: #7 Menerapkan Desain UI Modern
